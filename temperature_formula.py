@@ -6,7 +6,9 @@
 
     Standard Rounding (.5 rule):
     If the decimal is .5 or higher, it rounds up. If it is less than .5, it rounds down.
-    Example: 22.5°C becomes 23°C.Example: 72.4°F becomes 72°F.
+    
+    Example: 22.5°C becomes 23°C.
+    Example: 72.4°F becomes 72°F.
 
     Note2:
     Python 3 uses "Banker's Rounding," meaning values ending in .5 round to the nearest even integer.
